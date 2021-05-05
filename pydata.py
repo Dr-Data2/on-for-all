@@ -161,8 +161,8 @@ while True:
     elif a == '20' :
         print(os.system('termux-setup-storage'))
     elif a == 'help':
-        print (aaaa)
+        print (G,aaaa)
     elif a == '00':
         sys.exit()
     else:
-        print ('Error')
+        print (G +'Error')
