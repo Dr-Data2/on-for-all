@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Telegram](https://t.me/kali_linux_ar)
 Download Termux tools without problems with download android and lots of operating systems
-![Image 1](https://raw.githubusercontent.com/mr-sami-x/admin-ye/main/PicsArt_04-05-03.17.28~2.png)
+![Image 1]()
 ## installing
 
 - 1 . <code> pkg install python </code>
